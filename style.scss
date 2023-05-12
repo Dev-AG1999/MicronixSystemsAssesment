@@ -397,11 +397,10 @@ $color_primary-text: white;
         background: rgb(255, 255, 255);
         height: 328px;
         width: 100%;
-
         align-items: baseline;
         flex-direction: column;
         text-align: left;
-        padding: 0 20px;
+        padding-left: 20px;
         h3 {
           font-family: "Heebo", sans-serif;
           font-weight: 600;
@@ -413,11 +412,10 @@ $color_primary-text: white;
         background: rgb(255, 255, 255);
         height: 328px;
         width: 100%;
-
         align-items: baseline;
         flex-direction: column;
         text-align: left;
-        padding: 0 20px;
+        padding-left:  20px;
         z-index: 100;
         position: absolute;
         h3 {
